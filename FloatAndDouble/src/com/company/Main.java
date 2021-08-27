@@ -19,5 +19,7 @@ public class Main {
         System.out.println("My Int value = " + myValueInt);
         System.out.println("My Float value = " + myValueFloat);
         System.out.println("My Double value = " + myValueDouble);
+
+
     }
 }
